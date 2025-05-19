@@ -1,1 +1,3 @@
-conslode.log("This File was Changed On GitHub!!");
+function greet(){
+    conslode.log("Hello from the local branch!");
+}
