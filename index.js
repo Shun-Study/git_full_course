@@ -1,4 +1,4 @@
 function greet(){
-    conslode.log("Hello from the main branch!2");
+    conslode.log("Hello from the VSC branch!");
 }
 greet();
